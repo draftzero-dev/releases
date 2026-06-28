@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Draft Zero</title>
+    <link>https://raw.githubusercontent.com/ethos-zero/draftzero-releases/main/appcast.xml</link>
+    <description>Draft Zero update feed</description>
+  </channel>
+</rss>
